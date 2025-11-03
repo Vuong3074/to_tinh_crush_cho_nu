@@ -1,7 +1,7 @@
 # Tặng Crush
 ## _Một điều nho nhỏ tỏ tình với crush_
 Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/socolakem191)
+[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/Minvog.3074)
 
 Mở file config.js sửa nội dung theo mẫu
 ```
@@ -26,4 +26,4 @@ const CONFIG = {
     messLink: 'https://www.facebook.com/socolakem191'
 };
 
-
+URL: to-tinh-crush-cho-nu.vercel.app
